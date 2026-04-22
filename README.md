@@ -9,7 +9,7 @@
 
 LA-QUANT is an interactive **Bloomberg-style terminal application** that applies a complete 10-stage Linear Algebra pipeline to stock market price data. Raw closing prices are transformed through matrix operations, orthogonalization, projection, eigenanalysis, and SVD compression — ending with a denoised market model and future price predictions.
 
-**Dataset:** 10 trading days × 5 stocks (AAPL, GOOG, MSFT, AMZN, TSLA)  
+**Dataset:** 10 trading days × 5 stocks (AAPL, GOOG, MSFT, AMZN, TSLA) and (TCS, INFY, ICICI, HDFC, SBIN)
 **Language:** Python 3 · tkinter · numpy · scipy · matplotlib  
 **UI Theme:** Bloomberg Terminal — Green & Gold
 
@@ -17,8 +17,9 @@ LA-QUANT is an interactive **Bloomberg-style terminal application** that applies
 
 ## Screenshot
 
-<!-- Replace with: ![App Screenshot](screenshots/app_overview.png) -->
-> _Paste a screenshot of the full application window here_
+
+![Uploading image.png…]()
+
 
 ---
 
