@@ -1,7 +1,7 @@
 # LA-QUANT · Stock Market Linear Algebra Pipeline
 
 > **PES University · UE24MA241B — Linear Algebra and Its Applications**  
-> Mini Project · Department of Computer Science and Engineering
+> Mini Project · Gandhar, Dhruv, Dheepak
 
 ---
 
@@ -18,7 +18,9 @@ LA-QUANT is an interactive **Bloomberg-style terminal application** that applies
 ## Screenshot
 
 
-![Uploading image.png…]()
+
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/2b24f2f1-bd02-45b0-875f-aefa6dde14e3" />
+
 
 
 ---
